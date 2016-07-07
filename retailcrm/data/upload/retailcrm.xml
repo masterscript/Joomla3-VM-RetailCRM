@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2016-07-07 09:48:55">
+  <shop>
+    <name>Simple Shop</name>
+    <categories>
+      <category id="1">Phones</category>
+      <category id="2">computers</category>
+      <category id="3" parentId="2">Notebooks</category>
+      <category id="4" parentId="2">Tablet</category>
+      <category id="5" parentId="4">Expensive</category>
+      <category id="6" parentId="4">Cheap</category>
+    </categories>
+    <offers>
+      <offer id="1" productId="2" quantity="60">
+        <categoryId>1</categoryId>
+        <url>http://studio.ru/index.php/component/virtuemart/t11</url>
+        <price>5700.000000</price>
+        <purchasePrice>5600.000000</purchasePrice>
+        <name>THL t11</name>
+        <productName>t11</productName>
+        <vendor>THL</vendor>
+      </offer>
+      <offer id="2" productId="4" quantity="46">
+        <categoryId>1</categoryId>
+        <url>http://studio.ru/index.php/component/virtuemart/t12</url>
+        <price>7100.000000</price>
+        <purchasePrice>7000.000000</purchasePrice>
+        <picture>http://studio.ru/images/stories/virtuemart/product/04.07.16_11.50.jpeg</picture>
+        <name>THL T12</name>
+        <productName>T12</productName>
+        <vendor>THL</vendor>
+      </offer>
+      <offer id="3" productId="4" quantity="46">
+        <categoryId>1</categoryId>
+        <url>http://studio.ru/index.php/component/virtuemart/t12</url>
+        <price>6600.000000</price>
+        <purchasePrice>6500.000000</purchasePrice>
+        <picture>http://studio.ru/images/stories/virtuemart/product/04.07.16_11.50.jpeg</picture>
+        <name>THL T12</name>
+        <productName>T12</productName>
+        <vendor>THL</vendor>
+      </offer>
+      <offer id="4" productId="5" quantity="100">
+        <categoryId>1</categoryId>
+        <url>http://studio.ru/index.php/component/virtuemart/pap-4322-duo</url>
+        <price>5600.000000</price>
+        <purchasePrice>5500.000000</purchasePrice>
+        <picture>http://studio.ru/images/stories/virtuemart/product/04.07.16_11.51.jpeg</picture>
+        <name>THL MultiPhone 4322 DUO</name>
+        <productName>MultiPhone 4322 DUO</productName>
+        <vendor>THL</vendor>
+      </offer>
+      <offer id="4" productId="5" quantity="100">
+        <categoryId>1</categoryId>
+        <url>http://studio.ru/index.php/component/virtuemart/pap-4322-duo</url>
+        <price>5600.000000</price>
+        <purchasePrice>5500.000000</purchasePrice>
+        <picture>http://studio.ru/images/stories/virtuemart/product/04.07.16_11.51.jpeg</picture>
+        <name>Prestigio MultiPhone 4322 DUO</name>
+        <productName>MultiPhone 4322 DUO</productName>
+        <vendor>Prestigio</vendor>
+      </offer>
+      <offer id="5" productId="6" quantity="23">
+        <categoryId>2</categoryId>
+        <url>http://studio.ru/index.php/component/virtuemart/tab-2-a7-20f</url>
+        <price>200.000000</price>
+        <purchasePrice>100.000000</purchasePrice>
+        <picture>http://studio.ru/images/stories/virtuemart/product/07.07.16_09.00.jpeg</picture>
+        <name>Lenovo TAB 2 A7-20F</name>
+        <productName>TAB 2 A7-20F</productName>
+        <vendor>Lenovo</vendor>
+      </offer>
+      <offer id="5" productId="6" quantity="23">
+        <categoryId>4</categoryId>
+        <url>http://studio.ru/index.php/component/virtuemart/tab-2-a7-20f</url>
+        <price>200.000000</price>
+        <purchasePrice>100.000000</purchasePrice>
+        <picture>http://studio.ru/images/stories/virtuemart/product/07.07.16_09.00.jpeg</picture>
+        <name>Lenovo TAB 2 A7-20F</name>
+        <productName>TAB 2 A7-20F</productName>
+        <vendor>Lenovo</vendor>
+      </offer>
+      <offer id="5" productId="6" quantity="23">
+        <categoryId>6</categoryId>
+        <url>http://studio.ru/index.php/component/virtuemart/tab-2-a7-20f</url>
+        <price>200.000000</price>
+        <purchasePrice>100.000000</purchasePrice>
+        <picture>http://studio.ru/images/stories/virtuemart/product/07.07.16_09.00.jpeg</picture>
+        <name>Lenovo TAB 2 A7-20F</name>
+        <productName>TAB 2 A7-20F</productName>
+        <vendor>Lenovo</vendor>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
